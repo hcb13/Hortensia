@@ -1,6 +1,6 @@
 ![capa-github](https://user-images.githubusercontent.com/6174791/215575858-52b7cf43-3208-4959-b622-767d3b561e2c.png)
  
- ## I am a Unity Developer, always learning something new.
+ ## I am a Game Developer, always learning something new.
  
  # 🚀👩🏻‍💻 Technologies & Tools
  
