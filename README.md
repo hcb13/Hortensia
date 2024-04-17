@@ -1,4 +1,4 @@
-![capa-github](https://user-images.githubusercontent.com/6174791/215575858-52b7cf43-3208-4959-b622-767d3b561e2c.png)
+![capa-github](BannerHortensia.png)
  
  ## Driven by a relentless pursuit of mastery in game development, perpetually expanding my skill set with each project.
  
