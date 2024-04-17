@@ -1,6 +1,6 @@
 ![capa-github](BannerHortensia.png)
  
- ### Driven by a relentless pursuit of mastery in game development, perpetually expanding my skill set with each project.
+ # Driven by a relentless pursuit of mastery in game development, perpetually expanding my skill set with each project.
  
  ### Programming Languages
  [<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />]()
@@ -25,6 +25,8 @@
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hortensia-costa-barcelos/?locale=en_US)
  [<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />](http://www.luckyslothstudio.com/)
  [<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />](https://luckyslothstudio.itch.io/)
+
+##
  
  ### 📊 Github Stats
 [![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hcb13&exclude_repo=Hortensia,devassessment&hide=hlsl,ShaderLab&theme=tokyonight&count_private=true)](https://github.com/hcb13/github-readme-stats)
